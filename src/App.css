@@ -1,0 +1,11 @@
+.bg-pogress{
+	background:repeat-x center top;
+ position: fixed;
+top: 0;
+left: 0;
+right: 0;
+width: 100%;
+ user-select: none;
+z-index:1;
+ transition: all 0.6s ease;
+}
